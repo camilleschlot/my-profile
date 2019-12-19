@@ -1,0 +1,124 @@
+
+
+body
+{
+  background-color: #e8e7e6;
+  color: rgb(30,30,30);
+  font-family: Helvetica;
+  padding-bottom: 10px;
+  
+}
+
+h1
+{
+	font-family: Courier;
+	font-weight: 100px;
+	color: #3a98ba;
+	size: 60px;
+}
+
+h2
+{
+	color: #9c8e8a;
+}
+#entete
+{
+  text-align: center;
+  font-family: 'Calibri' ;
+  box-shadow : 1px 1px 0.5em ;
+  top:0;
+  width: 100%;
+  height: 30%;
+  position: fixed;
+  background-color: #C9C0BE;
+
+  padding-bottom: 10px;
+}
+
+#logo
+{
+  max-width: 35%;
+  height: auto;	
+  margin-right: 40px;
+}
+
+a
+{
+	font-family: Roboto;
+	text-decoration: none;
+	color: black;
+	font-weight: 600px;
+	font-size: 16px;
+
+}
+
+a:hover
+{
+	color:#C9C0BE;
+}
+
+.container
+{
+	width:600px;
+	margin: 100px auto;
+	padding: 100px;
+}
+
+.card-white
+{
+	background-color: white;
+	box-shadow: 0px 10px 30px rgba(0,0,0, 0.3);
+	border-radius: 4px;
+	margin:20px;
+	text-align: center;
+	padding:20px;
+
+}
+
+.img-circle
+{
+	border-radius: 50%;
+}
+
+.btn-brown
+{
+	color:white;
+	padding: 10px 20px;
+	border-radius: 4px;
+	background-color: #3a98ba;
+
+}
+
+.btn-brown:hover
+{
+	background-color: black;
+}
+
+.list-horizontal
+{
+	list-style: none;
+	padding-left: 0px;
+	color : white;
+
+}
+
+.list-horizontal li
+{
+	padding: 10px;
+	display: inline;
+	color: white;
+	padding: 10px;
+	border-radius: 4px;
+	
+}
+
+.list-horizontal i
+{
+	font-size: 30px;
+}
+
+#graphism p
+{
+	margin-bottom: 30px;
+}
+
